@@ -60,7 +60,7 @@ const Tistory = () => {
         />
         <CardMedia
           component="img"
-          image="/tistory/blog-manage.png"
+          image="tistory/blog-manage.png"
           alt="블로그 매니저 사진"
           style={{
             borderTop: "1px solid #ccc",

@@ -24,7 +24,7 @@ const AboutMe = () => {
       <Stack direction={"row"}>
         <CardMedia
           sx={{ width: "30%", height: 340 }}
-          image="/TH.jpg"
+          image="TH.jpg"
           title="김태현"
         />
         <CardContent>

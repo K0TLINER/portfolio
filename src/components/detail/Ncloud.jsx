@@ -23,9 +23,9 @@ const ExpandMore = styled((props) => {
 }));
 
 const imageThumbnalList = [
-  "/nCloud/Team1.jpg",
-  "/nCloud/Team2.jpg",
-  "/nCloud/Team3.jpg",
+  "nCloud/Team1.jpg",
+  "nCloud/Team2.jpg",
+  "nCloud/Team3.jpg",
 ];
 
 const Ncloud = () => {
@@ -176,7 +176,7 @@ const Ncloud = () => {
             </Typography>
             <CardMedia
               component="img"
-              image={"/nCloud/Mini_pjt.jpg"}
+              image={"nCloud/Mini_pjt.jpg"}
               height={"1200px"}
               alt="미니 프로젝트 사진"
               style={{
