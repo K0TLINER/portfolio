@@ -126,6 +126,8 @@ const Preview = () => {
                 <br />
                 nCloud SaaS를 이용해 다양한 서비스 이용(Auto Scaling, Load
                 Balancing, Object Storage, Docker Registry...)
+                <br />
+                Amazon EC2를 이용한 개인 프로젝트 애플리케이션 배포
               </Typography>
             </AccordionDetails>
           </Accordion>
