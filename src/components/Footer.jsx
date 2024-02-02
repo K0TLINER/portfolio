@@ -10,7 +10,7 @@ const Footer = () => {
       적용했습니다.
       <br />
       코드를 보고 싶은 경우{" "}
-      <Link href="https://aeye.tistory.com" target="_blank">
+      <Link href="https://github.com/K0TLINER/portfolio" target="_blank">
         여기
       </Link>
       를 클릭해주세요.
